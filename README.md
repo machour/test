@@ -1,8 +1,2 @@
 # test
 
-foo
-
-bar
-
-
-ba
